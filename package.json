@@ -1,0 +1,21 @@
+{
+  "name": "webappdev25",
+  "version": "1.0.0",
+  "description": "```bash\r ├───components\r ├───node_modules\r │   ├───accepts\r │   ├───body-parser\r │   │   └───lib\r │   │       └───types\r │   ├───bytes\r │   ├───call-bind-apply-helpers\r │   │   ├───.github\r │   │   └───test\r │   ├───call-bound\r │   │   ├───.github\r │   │   └───test\r │   ├───content-disposition\r │   ├───content-type\r │   ├───cookie\r │   ├───cookie-signature\r │   ├───debug\r │   │   └───src\r │   ├───depd\r │   │   └───lib\r │   │       └───browser\r │   ├───dunder-proto\r │   │   ├───.github\r │   │   └───test\r │   ├───ee-first\r │   ├───encodeurl\r │   ├───es-define-property\r │   │   ├───.github\r │   │   └───test\r │   ├───es-errors\r │   │   ├───.github\r │   │   └───test\r │   ├───es-object-atoms\r │   │   ├───.github\r │   │   └───test\r │   ├───escape-html\r │   ├───etag\r │   ├───express\r │   │   └───lib\r │   ├───finalhandler\r │   ├───forwarded\r │   ├───fresh\r │   ├───function-bind\r │   │   ├───.github\r │   │   └───test\r │   ├───get-intrinsic\r │   │   ├───.github\r │   │   └───test\r │   ├───get-proto\r │   │   ├───.github\r │   │   └───test\r │   ├───gopd\r │   │   ├───.github\r │   │   └───test\r │   ├───has-symbols\r │   │   ├───.github\r │   │   └───test\r │   │       └───shams\r │   ├───hasown\r │   │   └───.github\r │   ├───http-errors\r │   │   └───node_modules\r │   │       └───statuses\r │   ├───iconv-lite\r │   │   ├───.github\r │   │   ├───.idea\r │   │   │   ├───codeStyles\r │   │   │   └───inspectionProfiles\r │   │   ├───encodings\r │   │   │   └───tables\r │   │   └───lib\r │   ├───inherits\r │   ├───ipaddr.js\r │   │   └───lib\r │   ├───is-promise\r │   ├───math-intrinsics\r │   │   ├───.github\r │   │   ├───constants\r │   │   └───test\r │   ├───media-typer\r │   ├───merge-descriptors\r │   ├───mime-db\r │   ├───mime-types\r │   ├───ms\r │   ├───negotiator\r │   │   └───lib\r │   ├───object-inspect\r │   │   ├───.github\r │   │   ├───example\r │   │   └───test\r │   │       └───browser\r │   ├───on-finished\r │   ├───once\r │   ├───parseurl\r │   ├───path-to-regexp\r │   │   └───dist\r │   ├───proxy-addr\r │   ├───qs\r │   │   ├───.github\r │   │   ├───dist\r │   │   ├───lib\r │   │   └───test\r │   ├───range-parser\r │   ├───raw-body\r │   │   └───node_modules\r │   │       └───iconv-lite\r │   │           ├───encodings\r │   │           │   └───tables\r │   │           └───lib\r │   │               └───helpers\r │   ├───router\r │   │   └───lib\r │   ├───safe-buffer\r │   ├───safer-buffer\r │   ├───send\r │   ├───serve-static\r │   ├───setprototypeof\r │   │   └───test\r │   ├───side-channel\r │   │   ├───.github\r │   │   └───test\r │   ├───side-channel-list\r │   │   ├───.github\r │   │   └───test\r │   ├───side-channel-map\r │   │   ├───.github\r │   │   └───test\r │   ├───side-channel-weakmap\r │   │   ├───.github\r │   │   └───test\r │   ├───statuses\r │   ├───toidentifier\r │   ├───type-is\r │   ├───unpipe\r │   ├───vary\r │   └───wrappy\r ├───scripts\r └───styles\r ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-uni:np-truongan/WebAppDev25.git"
+  },
+  "keywords": ["html", "css", "javascript"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
